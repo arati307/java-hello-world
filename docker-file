@@ -3,13 +3,3 @@ class HelloWorld {
         System.out.println( "Hello World!" );
     }
 }
-
-this is my name1
-arati
-arati2
-arati3
-bulu
-bulk
-bulu2
-bulu3
-arti1
